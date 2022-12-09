@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 2,
+    "Title": "t2",
+    "NumberOfPages": 140,
+    "Authors": "a1, a3",
+    "Publisher": {
+      "Id": 0,
+      "Name": "ph1",
+      "Adress": "ad2"
+    },
+    "Status": "started"
+  },
+  {
+    "Id": 3,
+    "Title": "t3",
+    "NumberOfPages": 400,
+    "Authors": "a2, a5",
+    "Publisher": {
+      "Id": 3,
+      "Name": "ph1",
+      "Adress": "ad2"
+    },
+    "Status": "finished"
+  },
+  {
+    "Id": 4,
+    "Title": "t4",
+    "NumberOfPages": 476,
+    "Authors": "a3, a8",
+    "Publisher": {
+      "Id": 0,
+      "Name": "ph2",
+      "Adress": "ad3"
+    },
+    "Status": "reading"
+  }
+]
